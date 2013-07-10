@@ -2,7 +2,7 @@ define([],
     function () {
 
         /*
-         A port of jQuery functionality that fills gaps between what Dojo and jQuery offer
+            Jake - Just a little jQuery
          */
 
         'use strict';
