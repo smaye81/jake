@@ -10,6 +10,9 @@ Currently supported jQuery functions:
 * jQuery.each()
 * jQuery.extend()
 * jQuery.offset()
+* jQuery.type()
+* jQuery.isPlainObject()
+* jQuery.isArray()
 
 
 
