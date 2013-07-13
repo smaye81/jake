@@ -13,6 +13,10 @@ Currently supported jQuery functions:
 * jQuery.type()
 * jQuery.isPlainObject()
 * jQuery.isArray()
+* jQuery.isArrayLike()
+* jQuery.isFunction()
+* jQuery.isWindow()
+* jQuery.isNumeric()
 
 
 
